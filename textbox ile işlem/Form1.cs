@@ -20,8 +20,8 @@ namespace textbox_ile_işlem
         private void button1_Click(object sender, EventArgs e)
         {
             int s1, s2, sonuc = 0;
-            s1=Convert.ToInt32(textBox1.Text);
-            s2=Convert.ToInt32(textBox2.Text);
+            s1=Convert.ToInt32(txtsayi1.Text);
+            s2=Convert.ToInt32(txtsayi2.Text);
             sonuc = s1 + s2;
             label3.Text = "sonuc= " + sonuc;
         }
@@ -29,17 +29,17 @@ namespace textbox_ile_işlem
         private void button2_Click(object sender, EventArgs e)
         {
             int s1, s2, sonuc = 0;
-            s1 = Convert.ToInt32(textBox1.Text);
-            s2 = Convert.ToInt32(textBox2.Text);
-            sonuc = s2 - s1;
+            s1 = Convert.ToInt32(txtsayi1.Text);
+            s2 = Convert.ToInt32(txtsayi2.Text);
+            sonuc = s1 - s2;
             label3.Text = "sonuc= " + sonuc;
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             int s1, s2, sonuc = 0;
-            s1 = Convert.ToInt32(textBox1.Text);
-            s2 = Convert.ToInt32(textBox2.Text);
+            s1 = Convert.ToInt32(txtsayi1.Text);
+            s2 = Convert.ToInt32(txtsayi2.Text);
             sonuc = s1 * s2;
             label3.Text = "sonuc= " + sonuc;
         }
@@ -47,9 +47,9 @@ namespace textbox_ile_işlem
         private void button4_Click(object sender, EventArgs e)
         {
             int s1, s2, sonuc = 0;
-            s1 = Convert.ToInt32(textBox1.Text);
-            s2 = Convert.ToInt32(textBox2.Text);
-            sonuc = s2 / s1;
+            s1 = Convert.ToInt32(txtsayi1.Text);
+            s2 = Convert.ToInt32(txtsayi2.Text);
+            sonuc = s1 / s2;
             label3.Text = "sonuc= " + sonuc;
         }
     }

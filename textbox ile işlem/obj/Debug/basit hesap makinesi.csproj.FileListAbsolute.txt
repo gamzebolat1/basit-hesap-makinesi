@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\vs 2022\textbox ile işlem\textbox ile işlem\bin\Debug\textbox ile işlem.exe.config
+C:\Users\LENOVO\source\repos\vs 2022\textbox ile işlem\textbox ile işlem\bin\Debug\textbox ile işlem.exe
+C:\Users\LENOVO\source\repos\vs 2022\textbox ile işlem\textbox ile işlem\bin\Debug\textbox ile işlem.pdb
+C:\Users\LENOVO\source\repos\vs 2022\textbox ile işlem\textbox ile işlem\obj\Debug\basit hesap makinesi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\vs 2022\textbox ile işlem\textbox ile işlem\obj\Debug\textbox_ile_işlem.Form1.resources
+C:\Users\LENOVO\source\repos\vs 2022\textbox ile işlem\textbox ile işlem\obj\Debug\textbox_ile_işlem.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\vs 2022\textbox ile işlem\textbox ile işlem\obj\Debug\basit hesap makinesi.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\vs 2022\textbox ile işlem\textbox ile işlem\obj\Debug\basit hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\vs 2022\textbox ile işlem\textbox ile işlem\obj\Debug\textbox ile işlem.exe
+C:\Users\LENOVO\source\repos\vs 2022\textbox ile işlem\textbox ile işlem\obj\Debug\textbox ile işlem.pdb

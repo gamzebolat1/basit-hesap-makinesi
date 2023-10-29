@@ -31,8 +31,8 @@
             this.button1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtsayi1 = new System.Windows.Forms.TextBox();
+            this.txtsayi2 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -67,19 +67,19 @@
             this.label2.TabIndex = 2;
             this.label2.Text = "sayı 2";
             // 
-            // textBox1
+            // txtsayi1
             // 
-            this.textBox1.Location = new System.Drawing.Point(344, 145);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 26);
-            this.textBox1.TabIndex = 3;
+            this.txtsayi1.Location = new System.Drawing.Point(344, 96);
+            this.txtsayi1.Name = "txtsayi1";
+            this.txtsayi1.Size = new System.Drawing.Size(100, 26);
+            this.txtsayi1.TabIndex = 3;
             // 
-            // textBox2
+            // txtsayi2
             // 
-            this.textBox2.Location = new System.Drawing.Point(344, 96);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 26);
-            this.textBox2.TabIndex = 4;
+            this.txtsayi2.Location = new System.Drawing.Point(344, 139);
+            this.txtsayi2.Name = "txtsayi2";
+            this.txtsayi2.Size = new System.Drawing.Size(100, 26);
+            this.txtsayi2.TabIndex = 4;
             // 
             // label3
             // 
@@ -129,8 +129,8 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtsayi2);
+            this.Controls.Add(this.txtsayi1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
@@ -146,8 +146,8 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtsayi1;
+        private System.Windows.Forms.TextBox txtsayi2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
